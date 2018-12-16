@@ -1,0 +1,10 @@
+{
+  "name": "npm-bug-repo1",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Aleksei Androsov <doochik@ya.ru>",
+  "dependencies": {
+    "debug-flags": "0.0.1",
+    "node-monrun": "git@github.com:doochik/npm-bug-repo2.git#v0.1.0"
+  }
+}
