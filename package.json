@@ -4,7 +4,6 @@
   "main": "index.js",
   "author": "Aleksei Androsov <doochik@ya.ru>",
   "dependencies": {
-    "debug-flags": "0.0.1",
-    "npm-bug-repo2": "git@github.com:doochik/npm-bug-repo2.git#v0.1.0"
+    "npm-bug-repo2": "git@github.com:doochik/npm-bug-repo2.git#v0.1.1"
   }
 }
